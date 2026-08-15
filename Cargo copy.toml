@@ -7,6 +7,7 @@ description = "A simple 2D physics library based on AABB collision detection."
 license = "MIT"
 readme = "README.md"
 repository = "https://github.com/VojtaKing/aabb_physics"
+
 keywords = ["physics", "2d", "aabb", "collision", "gamedev"]
 categories = ["game-development", "simulation"]
 
