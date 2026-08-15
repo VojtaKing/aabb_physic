@@ -22,7 +22,7 @@ Add the following to your `Cargo.toml`:
 
 ```toml
 [dependencies]
-aabb_physics = "0.1"
+aabb_physics
 ```
 
 For local development:
